@@ -8,7 +8,7 @@ This repository contains a collection of Java codes that I write daily to improv
 
 The codes are organized by day and can be found in the corresponding directory.
 
-## ## Directory Structure
+## Directory Structure
 The directory structure is organized as follows:
 
 All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
