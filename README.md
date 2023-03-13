@@ -11,19 +11,23 @@ The codes are organized by day and can be found in the corresponding directory.
 ## Directory Structure
 The directory structure is organized as follows:
 
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
-
 - daily-java-codes/
-    - day-01/
+    - day-01
         - HelloWorld.java
-        - ...
-    - day-02/
-        - ...
-    - day-03/
-        - ...
-    - ...
-    - 
-Each directory represents a day, and each day contains one or more Java files.
+    - day-02
+        - ArithmeticOperators.java
+        - TakingInput.java
+        - CheckVotingEligibility.java
+        - DataTypes.java
+        - GradeCal.java
+    - day-03
+        - 
+        -
+        -
+        -
+     - day-03
+    
+    
 
  ## How to Run the Code
 To run the Java code in this repository, you need to have the Java Development Kit (JDK) installed on your computer. You can download the latest version of the JDK from the [Oracle website](https://www.oracle.com/java/technologies/downloads/).
