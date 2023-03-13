@@ -25,7 +25,7 @@ The directory structure is organized as follows:
         -
         -
         -
-     - day-03
+    
     
     
 
