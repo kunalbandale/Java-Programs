@@ -11,7 +11,7 @@ The codes are organized by day and can be found in the corresponding directory.
 ## Directory Structure
 The directory structure is organized as follows:
 
-- daily-java-codes/
+- daily-java-codes
     - day-01
         - HelloWorld.java
     - day-02
@@ -21,10 +21,6 @@ The directory structure is organized as follows:
         - DataTypes.java
         - GradeCal.java
     - day-03
-        - 
-        -
-        -
-        -
     
     
     
