@@ -22,8 +22,12 @@ The directory structure is organized as follows:
         - GradeCal.java
     - day-03
        - SwtichCase.java
+       
     - day-04
-       -  
+       - LoopInJava.java
+       - WhilleLoop.java
+       - doWhile.java
+     
     
     
     
