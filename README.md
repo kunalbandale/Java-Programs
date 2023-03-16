@@ -21,6 +21,7 @@ The directory structure is organized as follows:
         - DataTypes.java
         - GradeCal.java
     - day-03
+       - SwtichCase.java
     
     
     
