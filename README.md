@@ -27,6 +27,11 @@ The directory structure is organized as follows:
        - LoopInJava.java
        - WhilleLoop.java
        - doWhile.java
+       
+    - day-05
+       - ArraysInJava.java
+       - TwoDArray.java
+       
      
     
     
