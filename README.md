@@ -34,6 +34,12 @@ The directory structure is organized as follows:
        - UserDefinedMethods.java
        - ExcepHandle.java
        
+    - day-06
+       - ClassObj.java
+       - MoreOnFunctions.java
+       - .java
+       - .java
+       
      
     
     
