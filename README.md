@@ -42,11 +42,16 @@ The directory structure is organized as follows:
       
     - day-07
        - Write a program that takes a number N as the input, and prints it to the output.
-
-
+       - OddEvenProgram.java
+       - OddEvenRange.java
+       - Table.java
+       - printTableFrom1to10.java
+       - LargestNumberinThreeNumbers.java
+       - GreatestNumber
        
-    
-    
+       
+
+
     
 
  ## How to Run the Code
