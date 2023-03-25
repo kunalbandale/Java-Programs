@@ -47,7 +47,8 @@ The directory structure is organized as follows:
        - Table.java
        - printTableFrom1to10.java
        - LargestNumberinThreeNumbers.java
-       - GreatestNumber
+       - GreatestNumber.java
+       - Banking.java
        
        
 
