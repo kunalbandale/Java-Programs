@@ -52,15 +52,12 @@ The directory structure is organized as follows:
        
        
     - day-08
-       - 
-       - 
-      
-      
-       
-       
+       - CheckReverseStringIsPalimdrone.java
+       - ReverseChar.java
+       - ReverseNumber.java
+       - SumOfDigits.java
+       - Factorial.java
 
-
-    
 
  ## How to Run the Code
 To run the Java code in this repository, you need to have the Java Development Kit (JDK) installed on your computer. You can download the latest version of the JDK from the [Oracle website](https://www.oracle.com/java/technologies/downloads/).
