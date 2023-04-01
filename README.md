@@ -57,6 +57,15 @@ The directory structure is organized as follows:
        - ReverseNumber.java
        - SumOfDigits.java
        - Factorial.java
+       
+       
+    - day-09
+       - UnaryOperators.java
+       - ArthimeticOperator.java
+       - ShiftOperator.java
+       - TernaryOperator.java
+       - AssigmentOperator.java
+       - LogicalOperators.java
 
 
  ## How to Run the Code
