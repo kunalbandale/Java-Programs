@@ -66,6 +66,13 @@ The directory structure is organized as follows:
        - TernaryOperator.java
        - AssigmentOperator.java
        - LogicalOperators.java
+       
+       
+    - day-10
+       - ASCII.java
+       - StarInputProgram.java
+       - StarPrint.java
+       
 
 
  ## How to Run the Code
