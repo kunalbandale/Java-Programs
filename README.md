@@ -84,6 +84,14 @@ The directory structure is organized as follows:
        If  is even and in the inclusive range of  to , print Not Weird
        If  is even and in the inclusive range of  to , print Weird
        If  is even and greater than , print Not Weird
+       - Chef wants to appear in a competitive exam. To take the exam, there are following requirements:
+        Minimum age limit is 
+        X (i.e. Age should be greater than or equal to 
+        X).
+        Age should be strictly less than 
+        Y.
+        Chef's current Age is 
+        A. Find whether he is currently eligible to take the exam or not.
 
 
  ## How to Run the Code
