@@ -50,14 +50,12 @@ The directory structure is organized as follows:
        - GreatestNumber.java
        - Banking.java
        
-       
     - day-08
        - CheckReverseStringIsPalimdrone.java
        - ReverseChar.java
        - ReverseNumber.java
        - SumOfDigits.java
        - Factorial.java
-       
        
     - day-09
        - UnaryOperators.java
@@ -67,13 +65,19 @@ The directory structure is organized as follows:
        - AssigmentOperator.java
        - LogicalOperators.java
        
-       
     - day-10
        - ASCII.java
        - StarInputProgram.java
        - StarPrint.java
        - FibUsingRecursion.java
        - fibonacciSeries.java
+           
+    - day-11
+       - ArrayForEach.java
+       - ArrayInput.java
+       - .java
+       - .java
+       - .java
 
 
  ## How to Run the Code
