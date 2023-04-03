@@ -75,9 +75,10 @@ The directory structure is organized as follows:
     - day-11
        - ArrayForEach.java
        - ArrayInput.java
-       - .java
-       - .java
-       - .java
+       - ArrayForEach.java
+       - ArrayString.java
+       - ArrayFunctionJava.java
+       - Array2D.java
 
 
  ## How to Run the Code
