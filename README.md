@@ -95,8 +95,8 @@ The directory structure is organized as follows:
         
      - day-12
        - ColNotFixed.java
-       - .java
-       - .java
+       - ArrayListInJava.java
+       - InputArrayList.java
        - .java
        - .java
 
