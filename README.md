@@ -92,6 +92,13 @@ The directory structure is organized as follows:
         Y.
         Chef's current Age is 
         A. Find whether he is currently eligible to take the exam or not.
+        
+     - day-12
+       - ColNotFixed.java
+       - .java
+       - .java
+       - .java
+       - .java
 
 
  ## How to Run the Code
