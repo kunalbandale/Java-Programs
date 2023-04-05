@@ -97,7 +97,7 @@ The directory structure is organized as follows:
        - ColNotFixed.java
        - ArrayListInJava.java
        - InputArrayList.java
-       - .java
+       - MultiDimensionalArrayList.java
        - .java
 
 
