@@ -99,6 +99,13 @@ The directory structure is organized as follows:
        - InputArrayList.java
        - MultiDimensionalArrayList.java
        - .java
+       
+     - day-13
+       - Write a code that prints all the elements & their respective index numbers of the given array in separate lines
+       - 
+       - 
+       - 
+       - 
 
 
  ## How to Run the Code
