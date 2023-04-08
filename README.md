@@ -103,9 +103,9 @@ The directory structure is organized as follows:
      - day-13
        - Write a code that prints all the elements & their respective index numbers of the given array in separate lines
        - 
-       - 
-       - 
-       - 
+       
+     - day-14
+       - Somu went to the gym today. He decided to do X sets of squats. Each set consists of 15 squats. Determine the total number of squats that he did today.
 
 
  ## How to Run the Code
