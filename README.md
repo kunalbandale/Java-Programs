@@ -109,6 +109,7 @@ The directory structure is organized as follows:
        
      - day-15
        - In Chefland, everyone who earns strictly more than Y rupees per year, has to pay a tax to Chef. Chef has allowed a special scheme where you can invest any              amount of money and claim exemption for it.You have earned X (X>Y) rupees this year. Find the minimum amount of money you have to invest so that you don't              have to pay taxes this year.
+       - Recently, Chef visited his doctor. The doctor advised Chef to drink at least 2000 ml of water each day.Chef drank X ml of water today. Determine if Chef                followed the doctor's advice or not.
 
 
  ## How to Run the Code
