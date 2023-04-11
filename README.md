@@ -106,6 +106,9 @@ The directory structure is organized as follows:
        
      - day-14
        - Somu went to the gym today. He decided to do X sets of squats. Each set consists of 15 squats. Determine the total number of squats that he did today.
+       
+     - day-15
+       - In Chefland, everyone who earns strictly more than Y rupees per year, has to pay a tax to Chef. Chef has allowed a special scheme where you can invest any              amount of money and claim exemption for it.You have earned X (X>Y) rupees this year. Find the minimum amount of money you have to invest so that you don't              have to pay taxes this year.
 
 
  ## How to Run the Code
