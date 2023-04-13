@@ -116,6 +116,11 @@ The directory structure is organized as follows:
      - day-16
        - FIT.java
        - LUDO.java
+       
+       
+     - day-17
+       - Rectangle.java
+       - 
 
 
  ## How to Run the Code
