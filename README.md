@@ -121,6 +121,7 @@ The directory structure is organized as follows:
      - day-17
        - Rectangle.java
        - Std.java
+       - Details.java
 
 
  ## How to Run the Code
