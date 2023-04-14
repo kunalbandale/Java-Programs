@@ -126,7 +126,7 @@ The directory structure is organized as follows:
        
      - day-18
        - PerimeterTri.java
-       - .java
+       - staticExample.java
        - .java
        
 
