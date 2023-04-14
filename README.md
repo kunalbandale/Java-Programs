@@ -122,6 +122,13 @@ The directory structure is organized as follows:
        - Rectangle.java
        - Std.java
        - Details.java
+       
+       
+     - day-18
+       - PerimeterTri.java
+       - .java
+       - .java
+       
 
 
  ## How to Run the Code
