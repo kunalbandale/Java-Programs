@@ -129,6 +129,11 @@ The directory structure is organized as follows:
        - staticExample.java
        - InnerClasses.java
        
+      - day-19
+       - SNDMAX.java
+     
+       
+       
 
 
  ## How to Run the Code
