@@ -131,6 +131,9 @@ The directory structure is organized as follows:
        
      - day-19
        - SNDMAX.java
+       
+     - day-20
+       - BULLBEAR.java
      
        
        
