@@ -139,6 +139,12 @@ The directory structure is organized as follows:
        - CREDS.java
        - CRICMATCH.java
        - CCLEARN.java
+       
+       
+     - day-21
+       - FunctionOddEven.java
+       
+      
      
        
        
