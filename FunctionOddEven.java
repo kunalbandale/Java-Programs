@@ -1,0 +1,21 @@
+import java.util.Scanner;
+
+public class FunctionOddEven {
+    public static void EvenOdd(int num) {
+        if(num%2==0) {
+            System.out.println("The number is even");
+        } else {
+            System.out.println("The number is odd");
+        }
+    }
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        System.out.println("Enter Any Number");
+        int num = sc.nextInt();
+
+        EvenOdd(num);
+
+
+    }
+}
