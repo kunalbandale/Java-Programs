@@ -145,6 +145,9 @@ The directory structure is organized as follows:
        - FunctionOddEven.java
        - CABS.java
        
+     - day-22
+       - HEIGHTRATION.java
+       
       
      
        
