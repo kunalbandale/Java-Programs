@@ -153,6 +153,8 @@ The directory structure is organized as follows:
        
      - day-24
        - FuncOver.java
+       - RecSqOrNot.java
+       - ExamAllowedOrNot
        
        
        
