@@ -149,7 +149,10 @@ The directory structure is organized as follows:
        - HEIGHTRATION.java
        
      - day-23
-       - TypeCasting.java
+       - TypeCasting.java   
+       
+     - day-24
+       - FuncOver.java
        
        
        
