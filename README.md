@@ -157,22 +157,22 @@ The directory structure is organized as follows:
        - ExamAllowedOrNot
        
      - day-25
-       - 
+       - .java
        
      - day-26
-       - 
+       - .java
        
      - day-27
-       - 
+       - .java
        
      - day-28
-       - 
+       - .java
        
      - day-29
-       - 
+       - .java
        
      - day-30
-       - 
+       - .java
        
       
        
