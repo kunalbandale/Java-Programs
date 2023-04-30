@@ -164,6 +164,12 @@ The directory structure is organized as follows:
        
      - day-26
        - StringBufferJava.java
+       - StaticInJava.java
+       - StaticBlock.java
+       - Encaplustaion.java
+       - Std.java
+       - arrayOfObjects
+       - UseOfThisKeyword
        
      - day-27
        - .java
