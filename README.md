@@ -157,10 +157,13 @@ The directory structure is organized as follows:
        - ExamAllowedOrNot
        
      - day-25
-       - .java
+       - arrayOfObjects.java
+       - foreachLoop.java
+       - JaggedArray.java
+       - ArrayCreation.java
        
      - day-26
-       - .java
+       - StringBufferJava.java
        
      - day-27
        - .java
