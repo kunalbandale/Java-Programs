@@ -181,7 +181,9 @@ The directory structure is organized as follows:
        - DownCasting.java
        
      - day-29
-       - .java
+       - EnumInJava.java
+       - EnumIf.java
+       - EnumSwtich.java
        
      - day-30
        - .java
